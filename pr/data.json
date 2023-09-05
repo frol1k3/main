@@ -1,0 +1,32 @@
+[
+    {
+        "data": "19.05.2023",
+        "itogo": 336,
+        "klient": {
+            "name": "Дубилин",
+            "region": "Центр",
+            "town": "Москва"
+        },
+        "quantity": 12,
+        "tovar": {
+            "category": "Овощи",
+            "name": "Картофель",
+            "price": 28
+        }
+    },
+    {
+        "data": "20.05.2023",
+        "itogo": 600,
+        "klient": {
+            "name": "Ежов",
+            "region": "Север",
+            "town": "Санкт-Петербург"
+        },
+        "quantity": 4,
+        "tovar": {
+            "category": "Фрукты",
+            "name": "Персик",
+            "price": 150
+        }
+    }
+]

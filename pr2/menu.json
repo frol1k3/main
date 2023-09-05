@@ -1,0 +1,45 @@
+[
+    { 
+        "menu": "Файл", 
+        "commands": [ 
+            {
+                "title": "Новый", 
+                "action":"CreateDoc"
+            }, 
+            {
+                "title": "Открыть", 
+                "action": "OpenDoc"
+            }, 
+            {
+                "title": "Закрыть",
+                "action": "CloseDoc"
+            }
+        ] 
+    },
+    { 
+        "menu": "Изменить", 
+        "commands": [ 
+            {
+                "title": "Копировать", 
+                "action":"CopyText"
+            }, 
+            {
+                "title": "Вырезать", 
+                "action": "CutText"
+            }, 
+            {
+                "title": "Вставить",
+                "action": "PasteText"
+            }
+        ] 
+    },
+    { 
+        "menu": "Помощь", 
+        "commands": [ 
+            {
+                "title": "Справка", 
+                "action":"Documentation"
+            }
+        ] 
+    }
+]
