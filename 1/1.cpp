@@ -28,7 +28,7 @@ int main()
 			int max = 3;
 			int n = rand() % max + min;
 			if (n == 1) {
-				cout << "Я абсолют" << "\n";
+				cout << "Я абсолют, я вижу всё" << "\n";
 			}
 			else if (n == 2) {
 				cout << "Я не Тайлер Дердан" << "\n";
